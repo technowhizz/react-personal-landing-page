@@ -4,7 +4,7 @@ import React from "react"
 export default function Info() {
     return(
         <div className="info">
-            <img src="src/assets/profpic.png" className="info--pic" />
+            <img src="profpic.png" className="info--pic" />
             <h2 className="info--name">Technowhizz</h2>
             <h4 className="info--role">Software Developer</h4>
             <a href="https://google.com" className="info--website">website.me</a><br/>
